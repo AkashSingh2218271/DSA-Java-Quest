@@ -1,4 +1,4 @@
-package JAVA_DSA.PATTERN_TWO;
+package PATTERN_TWO;
 
 import java.util.Scanner;
 

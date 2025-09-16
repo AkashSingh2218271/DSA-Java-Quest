@@ -1,4 +1,4 @@
-package JAVA_DSA.JAVA_BASIC;
+package JAVA_BASIC;
 
 public class First {
     public static void main(String args[]){

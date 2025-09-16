@@ -1,5 +1,5 @@
 
-package JAVA_DSA.FUNCTION;
+package FUNCTION;
 
 import java.util.Scanner;
 

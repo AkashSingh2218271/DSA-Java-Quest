@@ -1,4 +1,4 @@
-package JAVA_DSA.CONDITIONAL_STATEMENTS;
+package CONDITIONAL_STATEMENTS;
 
 import java.util.Scanner;
 

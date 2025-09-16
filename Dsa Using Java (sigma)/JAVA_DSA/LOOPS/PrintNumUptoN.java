@@ -1,4 +1,4 @@
-package JAVA_DSA.LOOPS;
+package LOOPS;
 
 import java.util.Scanner;
 

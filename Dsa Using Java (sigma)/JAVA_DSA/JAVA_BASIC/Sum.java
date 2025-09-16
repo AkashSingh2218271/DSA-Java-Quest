@@ -1,4 +1,4 @@
-package JAVA_DSA.JAVA_BASIC;
+package JAVA_BASIC;
 import java.util.Scanner;
 /**
  * sum

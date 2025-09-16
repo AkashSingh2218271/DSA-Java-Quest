@@ -1,4 +1,4 @@
-package JAVA_DSA.OPERATORS;
+package OPERATORS;
 import java.util.Scanner;
 public class Arithmatic {
     public static void main(String args[]){

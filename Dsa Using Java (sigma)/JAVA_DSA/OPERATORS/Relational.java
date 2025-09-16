@@ -1,4 +1,4 @@
-package JAVA_DSA.OPERATORS;
+package OPERATORS;
 import java.util.Scanner;
 public class Relational {
     public static void main(String args[]){
