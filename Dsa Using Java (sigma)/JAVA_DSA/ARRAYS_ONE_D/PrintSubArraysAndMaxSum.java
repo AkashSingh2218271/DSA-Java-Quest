@@ -2,7 +2,7 @@ package ARRAYS_ONE_D;
 
 import java.util.Scanner;
 
-public class PrintSubArrays {
+public class PrintSubArraysAndMaxSum {
     public static void printSubArrays(int[] arr, int n) {
         int cnt = 0, sum = 0, maxSum = Integer.MIN_VALUE, minSum = Integer.MIN_VALUE;
         for (int s = 0; s < n; s++) {
