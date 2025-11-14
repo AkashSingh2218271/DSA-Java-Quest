@@ -58,7 +58,7 @@ public class InbuiltSort {
         
         System.out.print("Array two elements sorting from idx 3 in reverse: ");
         // Sort the last two elements of array b in reverse order
-        Arrays.sort(b, 3, Math.min(5, n), Collections.reverseOrder());
+        Arrays.sort(b, n-2, n, Collections.reverseOrder());
         printArr(b);
         
         System.out.print("Array after sorting (ascending): ");
